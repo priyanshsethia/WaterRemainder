@@ -1,0 +1,9 @@
+Water Remainder
+
+- FUNCTIONALITY :
+  1. Ask User Data
+    a. Name
+    b. Gender
+  2. Add water intake glass
+  3. Update water intake glass
+  4. Reset data on CompleteIntake of Water
